@@ -1,0 +1,11 @@
+*.out
+*.o
+.vscode
+TODO
+*.code-workspace
+test/
+*.obj
+*.pdb
+*.exe
+*.ilk
+.gitmodules
